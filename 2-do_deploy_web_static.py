@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from fabric.api import env, put, run
+from fabric import env, put, run
 from os.path import exists
 import os
 
